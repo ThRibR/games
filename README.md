@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto HistoryGames </h1>
+<h1 align="center"> Projeto History Games </h1>
 
 
 <h2> Índice: </h2>
@@ -29,12 +29,12 @@ Mundo dos Jogos - A História do seu Desenvolvimento
 
 <h3> Objetivo do Projeto: </h3>
 <p>
-O objetivo deste projeto é apresentar a várias pessoas da atualidade como, ao longo do tempo, fomos evoluindo com os desenvolvimentos de novos jogos. Este projeto visa mostrar ao público como chegamos até hoje com jogos mais bem elaborados, qual o início de tudo para finalmente chegarmos ao que temos atualmente, demonstrando alguns clássicos do mundo dos jogos, como "Mário Bros", "Atares" e outros que trouxeram novas ideias que ultrapassaram várias gerações com suas cores, tecnologia e diversão.
+O objetivo deste projeto é apresentar a várias pessoas da atualidade como, ao longo do tempo, fomos evoluindo com os desenvolvimentos de novos jogos. Este projeto visa mostrar ao público como chegamos até hoje com jogos com um processo de desenvolvimento mais complexo, um exemplo do início de tudo para finalmente chegarmos ao que temos atualmente, demonstrando alguns clássicos do mundo dos jogos, como "Mário Bros", um dos jogos que trouxe novas ideias que ultrapassaram várias gerações com suas cores, tecnologia e diversão.
 </p>
 
 
 <h3> Objetivo Individual da Equipe: </h3>
-<p> Thainá R. Rocco: Por meio deste projeto, tenho objetivo de adquirir conhecimento sobre o tema (desenvolvimento de jogos) e com intuito de apresentar ao final deste um projeto do qual um usurário possa se divertir e compreender melhor como chegamos até aqui com os jogos de agora. Também, busco aprimorar os meus conhecimentos em HTML, CSS e JavaScript, e explorar mais a parte de desenvolvimento back-end</p>
+<p> Thainá R. Rocco: Adquirir conhecimento sobre o tema (desenvolvimento de jogos) e demonstrar melhor como chegamos até aqui com os jogos de agora. Também, busco aprimorar meus conhecimentos nas linguagens HTML, CSS e JavaScript, e explorar mais a parte de desenvolvimento back-end e front-end</p>
 
 <p> Luana T. Monteiro: Aprimorar o uso da linguagem HTML e entender mais como é o trabalho do front-end na prática, além de descobrir mais sobre os processos de criação de um jogo com o desenvolvimento da história e a criação de uma identidade visual.</p>
 
@@ -64,13 +64,13 @@ O objetivo deste projeto é apresentar a várias pessoas da atualidade como, ao 
 
 
 <h2> Detalhamento de Atividade: </h2>
-<p> Neste ponto, detalhamos o que cada membro do grupo está/estava responsável de realizar no projeto. Vamos nos dividir em duplas para termos maior facilidade para o desenvolvimento deste, uma dupla para a parte de BackEnd e outra de FrontEnd </p>
+<p> Nós dividir todas as partes do projeto em duas para termos maior facilidade para o desenvolvimento deste, criando duas duplas para atuarem onde encontramos mais necessidades, na parte do back-end e do front-end. Uma dupla foi/está encarregada com a parte de Back-End e outra com a parte de Front-End </p>
 
 
 <h3> Responsabilidades de cada membro: </h3>
 <ul>
- <li> Luana T.M.: Parte FrontEnd, criação do design, desenvolvimento da história, desenvolvimento do projeto no GitHub </li>
- <li> Mirele N.F.: Parte FrontEnd,desenvolvimento da história </li>
- <li> Thainá R.R.: Parte BackEnd, criação do design, desenvolvimento do projeto no GitHub </li>
- <li> Viviane M.M.: Parte BackEnd, criação do design </li>
+ <li> Luana T.M.: Parte Front-End, desenvolvimento do projeto no GitHub </li>
+ <li> Mirele N.F.: Parte Front-End </li>
+ <li> Thainá R.R.: Parte Back-End, desenvolvimento do projeto no GitHub </li>
+ <li> Viviane M.M.: Parte Back-End </li>
 </ul>
